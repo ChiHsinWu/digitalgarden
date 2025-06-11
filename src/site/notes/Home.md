@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/"}
 ---
 
 記住你遇到不會的題目時有多絕望，記住你今年考得有多爛
